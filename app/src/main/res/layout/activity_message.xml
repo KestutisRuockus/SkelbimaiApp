@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".category.ChatActivity"
+    android:id="@+id/activity_chat">
+
+    <EditText
+        android:id="@+id/txt_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Enter name"
+        android:inputType="text"
+        android:textSize="22sp"></EditText>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/txt_name"
+        android:layout_above="@+id/txt_message"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <EditText
+        android:id="@+id/txt_message"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_above="@+id/btn_send"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="32dp"
+        android:gravity="top"
+        android:hint="Enter text"
+        android:src="@drawable/logo"
+        android:textSize="22sp"></EditText>
+
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:text="SEND"
+        android:textSize="25sp"
+        android:layout_alignParentBottom="true"
+        ></Button>
+</RelativeLayout>
