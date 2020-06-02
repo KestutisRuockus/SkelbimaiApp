@@ -2,10 +2,10 @@
 
 Advertisement application, android studio project.
 
-*Connected to Firebase.(/n)
-*Login and Registration forms.
-*CRUD and sorting possibilities
-*Stage "Contact us" is in the process.
+*Connected to Firebase. </br>
+*Login and Registration forms.</br>
+*CRUD and sorting possibilities. </br>
+*Stage "Contact us" is in the process. </br>
 
 
 ![1.jpg](https://github.com/KestutisRuockus/SkelbimaiApp/blob/master/1.jpg)
