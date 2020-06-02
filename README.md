@@ -1,5 +1,13 @@
 # SkelbimaiApp
 
+Advertisement application, android studio project.
+
+*Connected to Firebase.
+*Login and Registration forms.
+*CRUD and sorting possibilities
+*Stage "Contact us" is in the process.
+
+
 ![1.jpg](https://github.com/KestutisRuockus/SkelbimaiApp/blob/master/1.jpg)
 ![2.jpg](https://github.com/KestutisRuockus/SkelbimaiApp/blob/master/2.jpg)
 ![3.jpg](https://github.com/KestutisRuockus/SkelbimaiApp/blob/master/3.jpg)
