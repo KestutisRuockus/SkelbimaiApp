@@ -2,7 +2,7 @@
 
 Advertisement application, android studio project.
 
-*Connected to Firebase.
+*Connected to Firebase.("/n")
 *Login and Registration forms.
 *CRUD and sorting possibilities
 *Stage "Contact us" is in the process.
